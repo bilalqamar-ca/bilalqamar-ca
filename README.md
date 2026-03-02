@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Bilal 👋
 
-<!--
-**bilalqamar-ca/bilalqamar-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security practitioner. I work at the intersection of:
+- SecOps / SOC workflows
+- Splunk Enterprise Security + automation
+- APIs, cloud, and agentic AI tooling
 
-Here are some ideas to get you started:
+## What I’m building (2026–2027)
+I’m shipping a portfolio of practical security builder projects with one flagship repo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Flagship
+- **soc-agent** — SOC triage backend (FastAPI) + Splunk + ChatOps (synthetic data only)
+
+## Writing / Speaking
+- Cisco blogs: https://blogs.cisco.com/author/bqamar
+- LinkedIn: https://www.linkedin.com/in/bilalqamar/
+
+### Portfolio principles
+- Synthetic data only
+- No internal/customer data
+- GitHub noreply email enabled
